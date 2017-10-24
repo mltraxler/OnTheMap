@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20171006_OnTheMap/Network Code/UdacityMethods.swift"
+            timestampString = "530478530.560673"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "postNewStudentLocation(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20171006_OnTheMap.ClientCode.postNewStudentLocation(_20171006_OnTheMap.StudentLocation, (Swift.Optional&lt;Swift.Array&lt;_20171006_OnTheMap.StudentLocation&gt;&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "_20171006_OnTheMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mtraxler/Documents/Udacity/iOS%20Nanodegree%20Core/Projects/4.%20On%20the%20Map/_20171006_OnTheMap/_20171006_OnTheMap/Network%20Code/UdacityMethods.swift"
+                  timestampString = "529532366.762509"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "2694">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.AnyObject&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; () in _20171006_OnTheMap.ClientCode.postNewStudentLocation(_20171006_OnTheMap.StudentLocation, (Swift.Optional&lt;Swift.Array&lt;_20171006_OnTheMap.StudentLocation&gt;&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "_20171006_OnTheMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mtraxler/Documents/Udacity/iOS%20Nanodegree%20Core/Projects/4.%20On%20the%20Map/_20171006_OnTheMap/_20171006_OnTheMap/Network%20Code/UdacityMethods.swift"
+                  timestampString = "529532366.765359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "malloc_error_break"
+            moduleName = "">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "malloc_error_break"
+                  moduleName = "libsystem_malloc.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20171006_OnTheMap/Network Code/ClientCode.swift"
+            timestampString = "530478530.560797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "taskForDelete(_:_:_:completionHandlerForDELETE:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "_20171006_OnTheMap/View Controllers/MapViewController.swift"
+            timestampString = "530478530.560876"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in _20171006_OnTheMap.MapViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "_20171006_OnTheMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mtraxler/Documents/Udacity/iOS%20Nanodegree%20Core/Projects/4.%20On%20the%20Map/_20171006_OnTheMap/_20171006_OnTheMap/View%20Controllers/MapViewController.swift"
+                  timestampString = "530223815.606761"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "190">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in _20171006_OnTheMap.MapViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "_20171006_OnTheMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mtraxler/Documents/Udacity/iOS%20Nanodegree%20Core/Projects/4.%20On%20the%20Map/_20171006_OnTheMap/_20171006_OnTheMap/View%20Controllers/MapViewController.swift"
+                  timestampString = "530223815.609501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
